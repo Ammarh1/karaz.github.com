@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"encoding/json"
-	"karaz/src/models"
+	"karaz/models"
 
 	"fmt"
 	"io/ioutil"
