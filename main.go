@@ -2,7 +2,7 @@ package main
 
 import (
 	controllers "karaz/src/Controllers"
-	"karaz/src/models"
+	"karaz/models"
 
 	"github.com/gin-gonic/gin"
 )
